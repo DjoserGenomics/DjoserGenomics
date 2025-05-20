@@ -1,5 +1,3 @@
-**README.md for Djoser Genomics**
-
 # Djoser Genomics 🧬
 
 **"Climbing the Bioinformatics Pyramid, One Step at a Time"**
