@@ -38,7 +38,7 @@ Named after King Djoser, the builder of the first Step Pyramid, we believe great
 
 ## 𓏜 Active Protocols
 
-### 🧬 [Project Menhed](https://djosergenomics.github.io/categories/project-menhed/)
+### 🧬 [Project Menhed](https://djosergenomics.github.io/Introducing-Project-Menhed/)
 **Status:** `Active` | **Focus:** `Metabolic Engineering`
 
 Our flagship initiative. We are attempting to engineer *E. coli* (iML1515) to produce **Lycopene** at commercial yields using only open-source tools and a laptop.
